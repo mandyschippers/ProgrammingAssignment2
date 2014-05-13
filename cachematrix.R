@@ -7,7 +7,8 @@ makeCacheMatrix <- function(x = matrix()) {
 
 }
 
-##test if changes come through
+## use git push --mirror https://github.com/mandyschippers/ProgrammingAssignment2.git
+
 ## Write a short comment describing this function
 
 cacheSolve <- function(x, ...) {
